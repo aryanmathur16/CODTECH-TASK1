@@ -2,7 +2,7 @@ Name - Aryan Mathuriya
 Company - CODTECH IT Solutions
 ID - CT08DS9966
 Domain- Python Programming
-Duration- November to December 2024  
+Duration- November to December 2024   
 Mentor-Neela Santhosh Kumar
 
 Project Overview: Python Calculator
