@@ -1,0 +1,17 @@
+print("CALCULATOR")
+n= int(input("enter the first number:"))
+m= int(input("enter the first number:"))
+
+x = input("enter the operator :")
+
+if (x=="+"):
+    print(n+m)
+elif(x=="*"):
+    print(n*m)
+elif(x=="/"):
+    print(n/m)
+elif(x=="%"):
+    print(n%m)
+else:
+    print("operator is not recogonisable",x)
+    
